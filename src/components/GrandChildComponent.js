@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import { ThemeContext } from './context'
+import { ThemeContext } from './Context'
 
 
 const GrandChildComponent = () => {

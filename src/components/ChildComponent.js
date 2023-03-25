@@ -1,6 +1,6 @@
 import React, { useContext } from 'react'
 import GrandChildComponent from './GrandChildComponent'
-import { ThemeContext } from './context'
+import { ThemeContext } from './Context'
 
 
 const ChildComponent = () => {
